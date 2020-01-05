@@ -15,7 +15,7 @@ function setup() {
   
   
   button = createButton('Change');
-  button.position(width - 80, height - 30);
+  button.position(20, 20);
   button.mousePressed(change_state);
 
   //let inside = color(204, 102, 0);
